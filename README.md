@@ -1,24 +1,61 @@
-# 💫 About Me:
-Hi👋, I'm Chaitanya Chollangi<br><br>Passionate developer with a love for problem-solving and clean code, exploring software engineering and open-source collaboration.<br><br>About Me<br>Enjoy building scalable, user-focused solutions across web and backend technologies.<br><br>Interested in open-source projects, continuous learning, and contributing to community-driven tools.<br><br>Always experimenting with new frameworks, design patterns, and DevOps practices.<br><br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/chollangi-chaitanya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chollangichaitanya04@gmail.com) 
+# Chaitanya Chollangi
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Riishii21&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Riishii21&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riishii21&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+**AI engineer — I build multi-agent systems that have to be right, not just fluent.**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+Most LLM demos are impressive until you ask them for a number. My work is about the layer
+that makes agent output trustworthy: grounded retrieval, critic loops that reject unsupported
+claims, deterministic verification, and eval harnesses that put a score on it.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Riishii21&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+B.Tech CS, VIT Bhopal (2026) · Hyderabad, open to Bengaluru · Looking for AI/ML engineering roles
+
+[Portfolio](https://riishii21.github.io) ·
+[LinkedIn](https://www.linkedin.com/in/chollangi-chaitanya/) ·
+[chollangichaitanya04@gmail.com](mailto:chollangichaitanya04@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Riishii21&icon=6&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I'm building
+
+**[VERITAS — Equity Research Swarm](https://github.com/Riishii21/equity-research-swarm)** · [live demo](https://equity-research-swarm.onrender.com)
+Six-agent LangGraph swarm that turns a ticker into a fully-cited research brief from SEC EDGAR
+filings. Hybrid BM25 + semantic retrieval, a Critic agent that flags any claim without a source,
+and an eval harness that scores groundedness. Async FastAPI + SSE backend, WebGL frontend.
+`LangGraph` `RAG` `FastAPI` `Groq` `SEC EDGAR`
+
+**[TaxLens](https://github.com/Riishii21/taxlens)**
+Prototype that makes Indian Income Tax notices legible: verify the message, understand it, draft a
+response, submit through a mocked gov adapter. AI orchestrates data only — a deterministic state
+machine owns every consequential step, and the citizen approves before anything moves.
+`Next.js` `FastAPI` `Safety validation` `25 tests, ruff + mypy`
+
+**[AI Translator](https://github.com/Riishii21/AI_Translator_Project)**
+Document translation pipeline pairing EasyOCR vision with Llama 3.2 — layout-aware extraction
+through to translated output.
+`EasyOCR` `Llama 3.2` `Python`
+
+**[Smart Expense Tracker](https://github.com/Riishii21/smart-expense-tracker)**
+FastAPI REST API with concurrency-safe writes and 47 pytest cases — the unglamorous half of the
+job, done properly.
+`FastAPI` `pytest` `SQLite`
+
+---
+
+## Stack
+
+**Core** Python · FastAPI · LangGraph / LangChain · PyTorch
+**Retrieval** Hybrid RAG (BM25 + dense) · ChromaDB · SEC EDGAR / FMP ingestion
+**Serving** Docker · AWS · Render · Streamlit · SSE / async
+**Data** SQL · Pandas · NumPy
+**Vision** YOLO · OpenCV · EasyOCR
+
+---
+
+## How I work
+
+- Every agent system ships with an eval harness. If I can't score it, I don't claim it.
+- Deterministic checks wrap non-deterministic components — LLMs propose, code verifies.
+- Sources or it didn't happen: citation-linked output, and a critic pass that kills the rest.
+
+![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riishii21&show_icons=true&hide_border=true&theme=transparent&hide=issues)
